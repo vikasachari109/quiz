@@ -26,3 +26,5 @@
 - git log // lists the commits details in local
 
 - git show COMMIT_ID // shows the changes.
+
+- git remote add origin URL // to connect your local repo to the remote repo using URL.
