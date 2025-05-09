@@ -24,3 +24,5 @@
 - git commit -m "Your_Message"
 
 - git log // lists the commits details in local
+
+- git show COMMIT_ID // shows the changes.
