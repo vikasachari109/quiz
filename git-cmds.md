@@ -45,3 +45,4 @@
 a) for specific file = sample.txt
 b) for root path folders only = /temp
 c) for root path folders and anywhere in repo = temp/
+d) for specific file formate = *.txt
