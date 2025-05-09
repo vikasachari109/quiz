@@ -28,3 +28,5 @@
 - git show COMMIT_ID // shows the changes.
 
 - git remote add origin URL // to connect your local repo to the remote repo using URL.
+
+- git clone Url // to clone the repo from remote to local.
