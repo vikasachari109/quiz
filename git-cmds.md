@@ -30,3 +30,9 @@
 - git remote add origin URL // to connect your local repo to the remote repo using URL.
 
 - git clone Url // to clone the repo from remote to local.
+
+# git pull and push
+
+- git pull 
+
+- git push 
