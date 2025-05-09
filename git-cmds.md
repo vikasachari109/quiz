@@ -89,3 +89,9 @@ Eaxmple
 
 - git branch -d Branch_Name  // delete branch
 
+# git merge conflicts
+
+- if two branches modify the same lines of code in a file.
+- if one branch renames or moves a file while another branch modifies it.
+- if a file is deleted in one branch and modified in another branch.
+- 
