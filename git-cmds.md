@@ -81,6 +81,8 @@ Eaxmple
 
 - git branch     // list branches
 
+- git branch -a  // list the remote repo branch as well
+
 - git branch Branch_Name       // create the branch
 
 - git checkout -b Branch_Name  // if not exists creates and switch branch
