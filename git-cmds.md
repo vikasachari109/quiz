@@ -94,4 +94,11 @@ Eaxmple
 - if two branches modify the same lines of code in a file.
 - if one branch renames or moves a file while another branch modifies it.
 - if a file is deleted in one branch and modified in another branch.
-- 
+
+
+# git rebase
+
+- to change the base branch to the latest one for the child/feature branch.
+- make sure to be in child branch to perform the command.
+
+- example = git rebase master
